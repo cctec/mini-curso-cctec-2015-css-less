@@ -1,0 +1,1 @@
+{"version":3,"sources":["less/exemplo-1/mini-curso.less"],"names":[],"mappings":"AAEA;EACC,yBAAA;EACA,WAAA;;AAED;EACC,qBAAA","sourcesContent":["@import \"variavel.less\";\n\nbody {\n\tbackground-color: @cor_background;\n\tcolor: @cor_fonte;\n}\n.quadrado{\n\tborder: @espessura_borda solid @cor_borda;\n}"]}

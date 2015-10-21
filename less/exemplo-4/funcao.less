@@ -1,0 +1,17 @@
+@cor_fundo:  #842210;
+@base: 		 #f04615;
+@width:      0.5;
+
+.teste1{
+	background-color: saturate(@cor_fundo, 10%);
+}
+
+.teste2{
+	background-color: saturate(@cor_fundo, 5%);
+}
+
+.class {
+  width: percentage(@width); // returns `50%`
+  color: saturate(@base, 5%);
+  background-color: spin(lighten(@base, 25%), 8);
+}

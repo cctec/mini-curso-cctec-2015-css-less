@@ -1,0 +1,23 @@
+{
+  "name": "mini-curso-cctec-2015-css-less",
+  "version": "1.0.0",
+  "description": " Mini-curso sobre Pré-Processadores realizado no CCTEC 2015 na Univates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clevertonh/mini-curso-cctec-2015-css-less.git"
+  },
+  "author": "Cléverton Heming <clevertonh@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clevertonh/mini-curso-cctec-2015-css-less/issues"
+  },
+  "homepage": "https://github.com/clevertonh/mini-curso-cctec-2015-css-less#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.1"
+  }
+}

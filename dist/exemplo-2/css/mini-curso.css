@@ -1,0 +1,17 @@
+#teste_1 {
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+}
+#teste_2 {
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border: 2px solid black;
+  height: 50px;
+  width: 50px;
+}
+/*# sourceMappingURL=dist/exemplo-2/css/mini-curso.css.map */

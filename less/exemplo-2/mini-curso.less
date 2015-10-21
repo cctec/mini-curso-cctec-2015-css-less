@@ -1,0 +1,18 @@
+@import "mixins.less";
+
+@cor_borda: black;
+@espessura_borda: 2px;
+
+#teste_1{
+	.cantos_arredondados;
+	border: @espessura_borda solid @cor_borda;
+	height: 50px;
+	width: 50px;
+}
+
+#teste_2{
+	.cantos_arredondados(10px);
+	border: @espessura_borda solid @cor_borda;
+	height: 50px;
+	width: 50px;
+}

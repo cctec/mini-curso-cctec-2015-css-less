@@ -1,0 +1,606 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"y",
+				"get-os-x-10-10-yosemite-look-elementary-os-luna"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/completo.less",
+			"settings":
+			{
+				"buffer_size": 7116,
+				"line_ending": "Unix",
+				"name": "------------------------------------------------"
+			}
+		},
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/4-mixins-parametros.css",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/3-variavel-url.less",
+			"settings":
+			{
+				"buffer_size": 112,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/2-mixins-seletores.less",
+			"settings":
+			{
+				"buffer_size": 96,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/4-mixins-parametros.less",
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/7-mixins-multi-parametros.less",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-4",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-4/css",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-1",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-2",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-3",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-4",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo"
+	],
+	"file_history":
+	[
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-1/variavel.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-3/regra_aninhadas.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-1/mini-curso.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-4/mini-curso.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/Gruntfile.js",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-4/css/mini-curso.css",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-4/funcao.less",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/9-mixins-argumentos-parametros.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-3/mini-curso.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-3/index.html",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-3/css/mini-curso.css",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-2/mini-curso.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/exemplo-2/mixins.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-2/index.html",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/exemplo-1/index.html",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/package.json",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/variavel.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/dist/index.html",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/less/mini-curso.less",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/Gruntfile.json",
+		"/home/cleverton/Documentos/GitHub/mini-curso-cctec-2015-css-less/mini-curso-cctec-2015-css-less.sublime-project",
+		"/home/cleverton/Downloads/utserver.tar.gz",
+		"/home/cleverton/Downloads/testeFormulario/assets/app.js",
+		"/home/cleverton/Downloads/testeFormulario/index.html",
+		"/home/cleverton/Documentos/GitHub/react-js/package.json",
+		"/home/cleverton/Downloads/testeFormulario/Winterfell Examples_files/app.js",
+		"/home/cleverton/Downloads/testeFormulario/Winterfell Examples.html",
+		"/home/cleverton/Downloads/Winterfell-master/src/button.js",
+		"/home/cleverton/Documentos/GitHub/react-js/Gruntfile.js",
+		"/home/cleverton/Downloads/testeFormulario/Winterfell Examples_files/analytics.js",
+		"/run/user/1000/gvfs/smb-share:server=10.10.10.254,share=x/Documentos/Documentação de Projetos/FAROS/ER/tabelas.txt",
+		"/home/cleverton/Documentos/iptv/84.55.62.75/index.html",
+		"/home/cleverton/Documentos/iptv/84.55.62.75/config.xml",
+		"/var/www/html/widgetlist.xml ",
+		"/home/cleverton/Downloads/CineFilmes.m3u",
+		"/home/cleverton/Documentos/Teste/Winterfell/examples/index.html",
+		"/home/cleverton/Documentos/teste.txt",
+		"/home/cleverton/Documentos/iptv/siptv.eu/files/164516/manifest.xml",
+		"/home/cleverton/Documentos/iptv/siptv.eu/files/164516/tmp_dev_philsys.tmp",
+		"/home/cleverton/Documentos/iptv/siptv.eu/files/164516/developer.test",
+		"/media/cleverton/07AAA7515ADE00CE/1080p C T d C 2015 S C AMIABLE DUAL-RK by realitykings filewarez/Cinquenta.Tons.de.Cinza.2015.SEM.CENSURA.1080p.BluRay.X264-AMIABLE.DUAL-RK/Cinquenta.Tons.de.Cinza.2015.SEM.CENSURA.1080p.BluRay.X264-AMIABLE.DUAL-RK.by.realitykings.filewarez.tv.Forced.srt",
+		"/home/cleverton/Documentos/teste.sh",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/motivo-2.css",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/motivo-3.css",
+		"/home/cleverton/Documentos/Requisittus/Form > Questions | Typeform.html",
+		"/home/cleverton/Documentos/Requisittus/wget_/admin.typeform.com/bundles/quickyformadmin/js/compiled/typeform.admin.forms-6316f64.js",
+		"/tmp/Postler.AdiumMessageStyle.tar.gz",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/motivo-1.css",
+		"/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/motivo-1.html",
+		"/home/cleverton/wg++/rex/rex.config.xml",
+		"/home/cleverton/wg++/WebGrab++.config.xml",
+		"/home/cleverton/Documentos/GitHub/untitled.html",
+		"/home/cleverton/wg++/mdb/MDB/mdb.config.xml",
+		"/home/cleverton/wg++/mdb/mdb.config.xml",
+		"/home/cleverton/wg++/hagah.com.br.channels.xml",
+		"/home/cleverton/wg++/guide (cópia).xml",
+		"/home/cleverton/wg++/guide.xml",
+		"/home/cleverton/Documentos/GitHub/paa-projeto-2015b/README.md",
+		"/var/www/html/teste_framework/framework/init.php",
+		"/var/www/html/teste_framework/framework/application.ini",
+		"/var/www/html/teste_framework/framework/lib/psr/log/LogLevel.php",
+		"/var/www/html/teste_framework/framework/lib/psr/log/LoggerInterface.php",
+		"/var/www/html/teste_framework/framework/engine.php",
+		"/var/www/html/teste_framework/framework/crontab.php",
+		"/var/www/html/teste_framework/framework/cmd.php",
+		"/var/www/html/phonegap/SuaRota/plugins/fetch.json",
+		"/var/www/html/teste_framework/framework/lib/adianti/validator/TCNPJValidator.php",
+		"/home/cleverton/Documentos/CP - 20150427.txt",
+		"/home/cleverton/Documentos/CP - 20150428.txt",
+		"/home/cleverton/Documentos/CP - 20150429.txt",
+		"/home/cleverton/Documentos/GitHub/exemplo-push/server.js",
+		"/home/cleverton/Documentos/cp04_08_2015.txt",
+		"/home/cleverton/Documentos/GitHub/exemplo-push/package.json",
+		"/home/cleverton/Documentos/GitHub/exemplo-push/cliente.html",
+		"/home/cleverton/Documentos/GitHub/exemplo-push/exemplo.xml",
+		"/var/www/html/teste_framework/framework/app/control/TesteCH.class.php",
+		"/var/www/html/teste_framework/framework/index.php",
+		"/var/www/html/teste_framework/framework/menu.xml",
+		"/var/www/html/teste_framework/framework/app/resources/testech.html",
+		"/var/www/html/teste_framework/framework/app/control/teste.class.php",
+		"/home/cleverton/Documentos/cp13082015.txt",
+		"/home/cleverton/Documentos/cp11082015.txt",
+		"/home/cleverton/Downloads/teste.docx",
+		"/home/cleverton/.mozilla/firefox/profiles.ini",
+		"/home/cleverton/Documentos/GitHub/paa-projeto-2015b/MinhaFazenda/nbproject/project.properties",
+		"/home/cleverton/Documentos/GitHub/paa-projeto-2015b/MinhaFazenda/nbproject/project.xml",
+		"/var/www/html/phonegap/SuaRota/config.xml",
+		"/tmp/mysql-workbench-community-6.1.7-win32.msi",
+		"/home/cleverton/Downloads/mysql-workbench-community-6.2.5-win32.msi",
+		"/var/www/html/phonegap/SuaRota/Screenshot_2015-07-07-07-15-26.png",
+		"/var/www/html/phonegap/SuaRota/www/index.html",
+		"/var/www/html/phonegap/SuaRota/www/js/index.js",
+		"/home/cleverton/Downloads/colors_teal_orange.xml",
+		"/home/cleverton/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/cleverton/Vídeos/1080p C T d C 2015 S C AMIABLE DUAL-RK by realitykings filewarez/1080p.C.T.d.C.2015.S.C.AMIABLE.DUAL-RK.by.realitykings.filewarez.tv.rar.encrypted",
+		"/home/cleverton/Vídeos/T X-F S01E03 -Looper.dlc",
+		"/home/cleverton/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/cleverton/Downloads/teste3/index.html",
+		"/var/www/html/phonegap/SuaRota/platforms/android/AndroidManifest.xml",
+		"/var/www/html/phonegap/cordova-teste/www/index.html",
+		"/var/www/html/phonegap/cordova-teste/platforms/android/AndroidManifest.xml",
+		"/var/www/html/phonegap/cordova-teste/config.xml",
+		"/var/www/html/phonegap/lembre-me/platforms/android/AndroidManifest.xml",
+		"/var/www/html/phonegap/lembre-me/www/index.html",
+		"/var/www/html/phonegap/olhar.txt",
+		"/var/www/html/phonegap/lembre-me/www/lite.html",
+		"/var/www/html/phonegap/lembre-me/www/css/materialize.css",
+		"/var/www/html/phonegap/tarefas/config.xml",
+		"/var/www/html/phonegap/tarefas/www/css/tarefa.css",
+		"/var/www/html/phonegap/tarefas/www/index.html",
+		"/home/cleverton/Downloads/Angular-js-todolist-288b40af2b5d97d36f667b7cfe87434d31f561be/index.html",
+		"/var/www/html/phonegap/projeto-tarefas",
+		"/var/www/html/phonegap/myapp/comp.txt",
+		"/home/cleverton/Downloads/testeHttp/src/testehttp/TesteHttp.java",
+		"/home/cleverton/Downloads/StatsUtil.java",
+		"/var/www/html/android/move.php",
+		"/var/www/html/android/moves.php",
+		"/var/www/html/android/show_moves.php",
+		"/var/www/html/android/games.php",
+		"/var/www/html/android/start.php",
+		"/etc/zabbix/zabbix_agentd.conf",
+		"/home/cleverton/Arduino/libraries/readme.txt",
+		"/opt/Samsung_TV_SDK_4_5_Linux/eclipse.sh",
+		"/home/cleverton/Documentos/GitHub/premiere_box/index.html",
+		"/opt/Samsung_TV_SDK_4_5_Linux/eclipse.ini",
+		"/opt/Samsung_TV_SDK_5_1_Linux_x64/eclipse.ini",
+		"/opt/Samsung_TV_SDK_5_1_Linux_x64/eclipse.sh",
+		"/tmp/polskie.m3u"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\n.",
+			"json",
+			"login-render",
+			"#333",
+			"#5cb85c",
+			".btn",
+			"btn",
+			"NET - A&amp;E",
+			"pre",
+			"27980",
+			"27837",
+			"Chamado",
+			"\\n",
+			"\"> Parte3</a><br/>",
+			"\">Parte3</a><br/>",
+			"\">Parte2</a> |",
+			"\">Parte2</a> | ",
+			"\">Parte2 </a>|",
+			"\">Parte1</a> | ",
+			"<a href=\"",
+			"final_time_s",
+			"final_time_m",
+			"startTracking_debug",
+			"home_network_button",
+			"startTracking",
+			"startTracking_start",
+			"Tracking workout",
+			"status_tracking",
+			"startTracking",
+			"startTracking_status",
+			"status_tracking",
+			"startTracking_status",
+			"Tracking workout",
+			"track_info",
+			"deviceready",
+			"java_ho",
+			"materialize",
+			"bateria_tensao",
+			"sbc",
+			"initResultSet",
+			"fieldset",
+			"<td class=\"\\&quot;action-hide\\&quot;\" style=\"\\&quot;display:none\\&quot;\"></td>",
+			"Físico",
+			"-------------------",
+			"img",
+			"git"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			"monitoramento",
+			"status_tracking"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/completo.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7007,
+								7007
+							]
+						],
+						"settings":
+						{
+							"auto_name": "------------------------------------------------",
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/4-mixins-parametros.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/3-variavel-url.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/2-mixins-seletores.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 96,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/4-mixins-parametros.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/cleverton/Documentos/GitHub/talks/CCTEC-2015/Pré-Processadores-CSS/exemplo/7-mixins-multi-parametros.less",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.43767548371,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mini-curso-cctec-2015-css-less.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

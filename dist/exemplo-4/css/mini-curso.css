@@ -1,0 +1,21 @@
+.teste1 {
+  background-color: #8b1d09;
+}
+.teste2 {
+  background-color: #881f0c;
+}
+.class {
+  width: 50%;
+  color: #f6430f;
+  background-color: #f8b38d;
+}
+#header {
+  color: #111111 * 3;
+  border-left: 1px;
+  border-right: 1px * 2;
+}
+#footer {
+  color: #111111 + #003300;
+  border-color: #7d2717;
+}
+/*# sourceMappingURL=dist/exemplo-4/css/mini-curso.css.map */

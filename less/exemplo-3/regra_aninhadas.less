@@ -1,0 +1,38 @@
+#header {
+  h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  p { font-size: 12px;
+    a { text-decoration: none;
+      &:hover { border-width: 1px }
+    }
+  }
+}
+
+
+.botao{
+	display: inline-block;
+	margin-bottom: 0; 
+	font-weight: 10px;
+	text-align: center;
+	vertical-align: middle;
+  	cursor: pointer;
+  	background-image: none;
+  	border: 1px solid transparent;
+  	white-space: nowrap;
+  	color: white;
+  	background-color: red;
+
+  	&:hover{
+  		background-color: blue;
+  	}
+
+	&:focus{
+  		background-color: yellow;
+  	}  	
+
+  	&:active{
+  		background-color: green;
+  	}
+}
